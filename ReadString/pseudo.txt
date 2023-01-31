@@ -1,0 +1,7 @@
+setup:
+  Opret string array og giv den v¾rdien du fŒr fra funktionen loadStrings(filePath)
+  Lav et loop, i starter i 0 og slutter nŒr i ikke l¾ngere er mindre end l¾ngden af string arrayet:
+    Print v¾rdien i string arrayet i index I
+    G¿r i en st¿rre end den var f¿r
+
+    

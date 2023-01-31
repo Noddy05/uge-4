@@ -1,0 +1,15 @@
+Uge 4 | Pseudokode
+
+
+
+Start program
+  Opret array som skal indeholde strings over musens positioner.
+  Opret et integer som hedder index.
+  
+mouseClicked()
+  Sæt array[index mod 10] til at være musens position.
+  Gør index en højere
+  
+  Hvis index >= 10
+    Gem arrayet som en txt fil
+
